@@ -28,8 +28,15 @@ Pandas (For data manipulation)
 
 ## How It Works
 
-Data Collection: Music data is fetched from Spotify's API, which includes features like valence, energy, danceability, and more.
-Mood Mapping: A rule-based system assigns moods to the songs based on their audio features.
-Model Training: A Random Forest Classifier is used to predict moods based on the features of the songs.
-Playlist Generation: Based on the mood selected by the user, the app generates a playlist by sampling songs that match the predicted mood.
+### Data Collection: 
+Music data is fetched from Spotify's API, which includes features like valence, energy, danceability, and more.
+
+### Mood Mapping: 
+A rule-based system assigns moods to the songs based on their audio features.
+
+### Model Training:
+A Random Forest Classifier is used to predict moods based on the features of the songs.
+
+### Playlist Generation:
+Based on the mood selected by the user, the app generates a playlist by sampling songs that match the predicted mood.
 
