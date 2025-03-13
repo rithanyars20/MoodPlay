@@ -1,4 +1,4 @@
-# MoodPlay
+# MoodPlay 🎧🎶✨
 ## AI-Powered Mood-Based Music Playlist Generator
 This project is an AI-based music playlist generator that predicts the mood of a track and creates personalized playlists based on the user's current mood. The model is built using a Random Forest Classifier and leverages audio features from Spotify to perform mood predictions.
 
